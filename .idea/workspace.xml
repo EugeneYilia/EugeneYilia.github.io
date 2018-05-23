@@ -1,93 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dea3fea8-7207-40a6-999f-860f245c565b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/2017/03/10/break-word-word-wrap-white-space/index.html" afterPath="$PROJECT_DIR$/2017/03/10/break-word-word-wrap-white-space/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/03/17/Handlebars-guide/index.html" afterPath="$PROJECT_DIR$/2017/03/17/Handlebars-guide/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/03/23/Markdown-Learning/index.html" afterPath="$PROJECT_DIR$/2017/03/23/Markdown-Learning/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/03/24/Graphviz/index.html" afterPath="$PROJECT_DIR$/2017/03/24/Graphviz/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/03/24/mock-js/index.html" afterPath="$PROJECT_DIR$/2017/03/24/mock-js/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/06/07/Angualr-guide/index.html" afterPath="$PROJECT_DIR$/2017/06/07/Angualr-guide/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/06/30/Maintainable-Javascript/index.html" afterPath="$PROJECT_DIR$/2017/06/30/Maintainable-Javascript/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/07/13/AngularJs-todoMVC/index.html" afterPath="$PROJECT_DIR$/2017/07/13/AngularJs-todoMVC/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/07/31/how-does-timer-work/index.html" afterPath="$PROJECT_DIR$/2017/07/31/how-does-timer-work/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/08/01/Vue-guide/index.html" afterPath="$PROJECT_DIR$/2017/08/01/Vue-guide/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/08/04/type-existence/index.html" afterPath="$PROJECT_DIR$/2017/08/04/type-existence/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/09/07/Bootstrap-table-API/index.html" afterPath="$PROJECT_DIR$/2017/09/07/Bootstrap-table-API/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/09/07/Deferred-Promise/index.html" afterPath="$PROJECT_DIR$/2017/09/07/Deferred-Promise/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/09/26/ES6-learning/index.html" afterPath="$PROJECT_DIR$/2017/09/26/ES6-learning/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/12/13/CSS-Secrets/index.html" afterPath="$PROJECT_DIR$/2017/12/13/CSS-Secrets/index.html" />
-      <change beforePath="$PROJECT_DIR$/2017/12/21/webpack/index.html" afterPath="$PROJECT_DIR$/2017/12/21/webpack/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/01/02/webpack-multi-page/index.html" afterPath="$PROJECT_DIR$/2018/01/02/webpack-multi-page/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/01/18/websocket-chat/index.html" afterPath="$PROJECT_DIR$/2018/01/18/websocket-chat/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/01/30/vue-music-note/index.html" afterPath="$PROJECT_DIR$/2018/01/30/vue-music-note/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/02/05/same-origin-policy/index.html" afterPath="$PROJECT_DIR$/2018/02/05/same-origin-policy/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/02/24/postman-guide/index.html" afterPath="$PROJECT_DIR$/2018/02/24/postman-guide/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/03/15/mini-program-bus/index.html" afterPath="$PROJECT_DIR$/2018/03/15/mini-program-bus/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/04/25/design-pattern/index.html" afterPath="$PROJECT_DIR$/2018/04/25/design-pattern/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018/04/27/oop-basic-in-js/index.html" afterPath="$PROJECT_DIR$/2018/04/27/oop-basic-in-js/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/03/index.html" afterPath="$PROJECT_DIR$/archives/2017/03/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/06/index.html" afterPath="$PROJECT_DIR$/archives/2017/06/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/07/index.html" afterPath="$PROJECT_DIR$/archives/2017/07/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/08/index.html" afterPath="$PROJECT_DIR$/archives/2017/08/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/09/index.html" afterPath="$PROJECT_DIR$/archives/2017/09/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/12/index.html" afterPath="$PROJECT_DIR$/archives/2017/12/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/index.html" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2017/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2017/page/2/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2018/02/index.html" afterPath="$PROJECT_DIR$/archives/2018/02/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2018/03/index.html" afterPath="$PROJECT_DIR$/archives/2018/03/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2018/04/index.html" afterPath="$PROJECT_DIR$/archives/2018/04/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/2018/index.html" afterPath="$PROJECT_DIR$/archives/2018/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/page/2/index.html" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
-      <change beforePath="$PROJECT_DIR$/archives/page/3/index.html" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
-      <change beforePath="$PROJECT_DIR$/categories/FrontEnd/index.html" afterPath="$PROJECT_DIR$/categories/FrontEnd/index.html" />
-      <change beforePath="$PROJECT_DIR$/categories/FrontEnd/page/2/index.html" afterPath="$PROJECT_DIR$/categories/FrontEnd/page/2/index.html" />
-      <change beforePath="$PROJECT_DIR$/categories/FrontEnd/page/3/index.html" afterPath="$PROJECT_DIR$/categories/FrontEnd/page/3/index.html" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" afterPath="$PROJECT_DIR$/categories/index.html" />
-      <change beforePath="$PROJECT_DIR$/categories/other/index.html" afterPath="$PROJECT_DIR$/categories/other/index.html" />
-      <change beforePath="$PROJECT_DIR$/page/2/index.html" afterPath="$PROJECT_DIR$/page/2/index.html" />
-      <change beforePath="$PROJECT_DIR$/page/3/index.html" afterPath="$PROJECT_DIR$/page/3/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/Angular/index.html" afterPath="$PROJECT_DIR$/tags/Angular/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/CORS/index.html" afterPath="$PROJECT_DIR$/tags/CORS/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/ES6/index.html" afterPath="$PROJECT_DIR$/tags/ES6/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/Graphviz/index.html" afterPath="$PROJECT_DIR$/tags/Graphviz/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/Handlebars/index.html" afterPath="$PROJECT_DIR$/tags/Handlebars/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/JSONP/index.html" afterPath="$PROJECT_DIR$/tags/JSONP/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/MVC/index.html" afterPath="$PROJECT_DIR$/tags/MVC/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/Markdown/index.html" afterPath="$PROJECT_DIR$/tags/Markdown/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/Promise/index.html" afterPath="$PROJECT_DIR$/tags/Promise/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/css/index.html" afterPath="$PROJECT_DIR$/tags/css/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/framework/index.html" afterPath="$PROJECT_DIR$/tags/framework/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/im/index.html" afterPath="$PROJECT_DIR$/tags/im/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" afterPath="$PROJECT_DIR$/tags/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/js/index.html" afterPath="$PROJECT_DIR$/tags/js/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/mock/index.html" afterPath="$PROJECT_DIR$/tags/mock/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/nodejs/index.html" afterPath="$PROJECT_DIR$/tags/nodejs/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/oop/index.html" afterPath="$PROJECT_DIR$/tags/oop/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/postman/index.html" afterPath="$PROJECT_DIR$/tags/postman/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/timer/index.html" afterPath="$PROJECT_DIR$/tags/timer/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/todoMVC/index.html" afterPath="$PROJECT_DIR$/tags/todoMVC/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/vue/index.html" afterPath="$PROJECT_DIR$/tags/vue/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/webpack/index.html" afterPath="$PROJECT_DIR$/tags/webpack/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/websocket/index.html" afterPath="$PROJECT_DIR$/tags/websocket/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/创建对象/index.html" afterPath="$PROJECT_DIR$/tags/创建对象/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/存在性/index.html" afterPath="$PROJECT_DIR$/tags/存在性/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/小程序/index.html" afterPath="$PROJECT_DIR$/tags/小程序/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/异步/index.html" afterPath="$PROJECT_DIR$/tags/异步/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/构建/index.html" afterPath="$PROJECT_DIR$/tags/构建/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/模拟数据/index.html" afterPath="$PROJECT_DIR$/tags/模拟数据/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/类型检测/index.html" afterPath="$PROJECT_DIR$/tags/类型检测/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/绘图/index.html" afterPath="$PROJECT_DIR$/tags/绘图/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/继承/index.html" afterPath="$PROJECT_DIR$/tags/继承/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/聊天室/index.html" afterPath="$PROJECT_DIR$/tags/聊天室/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/表格/index.html" afterPath="$PROJECT_DIR$/tags/表格/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/设计模式/index.html" afterPath="$PROJECT_DIR$/tags/设计模式/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/跨域/index.html" afterPath="$PROJECT_DIR$/tags/跨域/index.html" />
-      <change beforePath="$PROJECT_DIR$/tags/面向对象/index.html" afterPath="$PROJECT_DIR$/tags/面向对象/index.html" />
-    </list>
+    <list default="true" id="dea3fea8-7207-40a6-999f-860f245c565b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -186,7 +100,7 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP5.6.14" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="252" />
     <option name="y" value="200" />
     <option name="width" value="2320" />
@@ -347,15 +261,16 @@
       <option name="presentableId" value="Default" />
       <updated>1526754723638</updated>
       <workItem from="1526754732340" duration="253000" />
-      <workItem from="1527088512086" duration="128000" />
+      <workItem from="1527088512086" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="381000" />
+    <option name="totallyTimeSpent" value="530000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -377,7 +292,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24868074" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24868074" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14242652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -454,7 +369,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
           <folding />
         </state>
       </provider>
